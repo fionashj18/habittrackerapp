@@ -1,0 +1,3 @@
+Claude:
+1. I'm brand new to React Native. Can you explain at a high level how these files create a working app?
+2. 
